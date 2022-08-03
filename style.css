@@ -1,0 +1,269 @@
+body {
+    margin: 0;
+}
+
+.nav-bar {
+    margin-top: 2%;
+    width: 30%;
+    margin-left: 65%;
+}
+
+.nav-elements {
+    display: flex;
+}
+
+.nav-elements p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #3C3C3C;
+    width: 30%;
+    text-align: end;
+    font-weight: 700;
+}
+
+.top-banner {
+    display: flex;
+    padding-left: 5%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.intro-name {
+    padding-left: 5%;
+    line-height: 5.5em;
+    margin-top: 10%;
+}
+
+.half-width img {
+    margin-top: 5%;
+    width: 55%;
+}
+
+.half-width p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #3E3E3E;
+    line-height: 1.4em;
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+
+.top-banner h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    font-size: 98px;
+}
+
+.intro {
+    color: #363958;
+}
+
+.name {
+    color: #FF8367;
+}
+
+.intro-name h1 {
+    margin: 0;
+}
+
+.hire-me {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    background-image: linear-gradient(45deg, #FF8063, #F46060);
+    padding: 20px 55px;
+    border-radius: 5px;
+}
+
+.about-section {
+    margin-top: -100px;
+    display: flex;
+    padding-left: 8%;
+}
+
+.half-width .about {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    font-size: 58px;
+    color: #363958;
+}
+
+.about-me {
+    margin-top: 10%;
+    padding-top: 5%;
+}
+
+.about-me h1 {
+    margin: 0;
+    line-height: 0.5em;
+}
+
+.about-me p {
+    margin-top: 4%;
+    margin-bottom: 7%;
+    width: 65%;
+}
+
+.about-me .download-cv {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    background-image: linear-gradient(45deg, #FF8063, #F46060);
+    padding: 20px 55px;
+    border-radius: 5px;
+}
+
+.working-projects h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    font-size: 58px;
+    color: #363958;
+    text-align: center;
+}
+
+.working-projects .about {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    font-size: 58px;
+    color: #F46060;
+}
+
+.working-projects {
+    background-color: #f3f3f3;
+    padding: 5% 5%;
+    margin-top: 5%;
+}
+
+.projects {
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.project-thumb {
+    width: 30%;
+    padding: 2%;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+    background-color: white;
+    margin: 2%;
+}
+
+.project-thumb img {
+    width: 100%;
+}
+
+.project-thumb h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #363958;
+    margin-top: 7%;
+    font-weight: 700;
+}
+
+.project-thumb p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #6C6C6C;
+    font-weight: 400;
+    margin-top: 1%;
+}
+
+.chat-block {
+    margin-top: 7%;
+}
+
+.chat-parent {
+    width: 70%;
+    margin: 0 auto;
+    background-image: url(shapes/Group_33094_1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.chat {
+    display: flex;
+}
+
+.chat-text {
+    width: 50%;
+    text-align: end;
+}
+
+.chat-link {
+    margin: auto;
+    text-align: center;
+}
+
+.work-text {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    font-size: 54px;
+    color: white;
+    padding: 3%;
+    margin-right: 20%;
+}
+
+.chat-me {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    background-image: linear-gradient(45deg, #FF8063, #F46060);
+    padding: 30px 55px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 7%;
+}
+
+.stay-connected {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    font-size: 24px;
+    color: #696871;
+}
+
+.stay-connected h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.hello-design {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: #363958;
+    margin: 0;
+    padding: 0;
+}
+
+.hello-design h2 {
+    margin: 1%;
+}
+
+.footer-icons {
+    width: 12%;
+    margin: 0 auto;
+    margin-top: 1.5%;
+    margin-bottom: 6%;
+}
+
+.icons {
+    display: flex;
+    text-align: center;
+}
+
+.icons img {
+    width: 60%;
+}
